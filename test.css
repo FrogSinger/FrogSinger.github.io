@@ -1,0 +1,11 @@
+#pig{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 10px;
+    top: 50px;
+}
+#birthday{
+    display: none;
+    position: absolute;
+}
